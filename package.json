@@ -1,0 +1,19 @@
+{
+  "name": "bitface",
+  "version": "1.0.0",
+  "description": "Custom bitart NFT project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktwomey/BitFace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktwomey/BitFace/issues"
+  },
+  "homepage": "https://github.com/ktwomey/BitFace#readme"
+}
